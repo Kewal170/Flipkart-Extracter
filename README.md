@@ -1,5 +1,3 @@
-If the design (i.e., the formatting) isn't displaying correctly in your `README.md` file on GitHub, it’s likely due to missing Markdown syntax that properly formats the content. Markdown uses certain characters to apply styling such as headers, lists, and code blocks. Here’s the corrected version with proper formatting:
-
 ---
 
 # Flipkart Extractor
